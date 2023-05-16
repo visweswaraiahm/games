@@ -1,4 +1,6 @@
 cricket
 volleyball
 basketball
+tennis
+badminton
 etc
